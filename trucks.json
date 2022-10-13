@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Renault",
+    "drive": {
+      "id": 0
+    },
+    "status": "BASE"
+  },
+  {
+    "id": 2,
+    "name": "Volvo",
+    "drive": {
+      "id": 0
+    },
+    "status": "BASE"
+  },
+  {
+    "id": 3,
+    "name": "DAF XT ",
+    "drive": {
+      "id": 0
+    },
+    "status": "BASE"
+  },
+  {
+    "id": 4,
+    "name": "Optimus Prime ",
+    "drive": {
+      "id": 0
+    },
+    "status": "BASE"
+  },
+  {
+    "id": 5,
+    "name": "Bumble Bee",
+    "drive": {
+      "id": 0
+    },
+    "status": "BASE"
+  }
+]
